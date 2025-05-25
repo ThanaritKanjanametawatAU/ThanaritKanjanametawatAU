@@ -1,6 +1,16 @@
-# Hi, I'm Thanarit Kanjanametawat 👋
+<!-- Custom Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Thanarit%20Kanjanametawat&fontSize=65&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=51&descAlign=50" width="100%" />
+</div>
 
-## AI Researcher & Machine Learning Engineer crafting intelligent solutions at the intersection of research and real-world applications
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&lines=Crafting+Intelligent+Solutions+with+AI+🚀;Building+Voice+Synthesis+Systems+🎤;Researching+Diffusion+Models+🔬;Creating+Full+Stack+Applications+💻" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
 
 🚀 **Full Stack AI Developer** specializing in Computer Vision, Deep Learning, and Generative AI  
 🔬 **Leading AI Research** at Baksters - Building the future of voice synthesis and generative models  
@@ -23,11 +33,24 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThanaritKanjanametawatAU&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThanaritKanjanametawatAU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanaritKanjanametawatAU&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&text_color=ffffff" alt="Top Languages" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanaritKanjanametawatAU&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanaritKanjanametawatAU&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThanaritKanjanametawatAU&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff" width="100%" />
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThanaritKanjanametawatAU&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
 </div>
 
 ### 💼 Professional Journey
@@ -50,10 +73,13 @@
 
 ### 🎯 Current Focus
 
-- 🎤 **Voice AI**: Building state-of-the-art voice synthesis systems
-- 🖼️ **Diffusion Models**: Research and implementation for generative AI
-- 🔍 **Computer Vision**: Developing intelligent vision solutions
-- 🚀 **MLOps**: Deploying scalable AI systems in production
+<div align="center">
+  
+| 🎤 **Voice AI** | 🖼️ **Diffusion Models** | 🔍 **Computer Vision** | 🚀 **MLOps** |
+|:---:|:---:|:---:|:---:|
+| Building state-of-the-art<br/>voice synthesis systems | Research and implementation<br/>for generative AI | Developing intelligent<br/>vision solutions | Deploying scalable<br/>AI systems in production |
+
+</div>
 
 ### 🌟 Featured Technologies
 
@@ -72,8 +98,24 @@
 
 </div>
 
+### 🐍 Contribution Snake
+
+<!-- Snake animation will appear here after the GitHub Action runs -->
+<div align="center">
+  <i>The contribution snake will appear after the first workflow run. <br/>
+  To activate: Push this README to your repo and wait for the GitHub Action to generate the snake!</i>
+</div>
+
 ---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThanaritKanjanametawatAU&label=Profile%20views&color=00d9ff&style=flat" alt="Profile views" />
+  
+  <br/><br/>
+  
   <i>🚀 Crafting intelligent solutions at the intersection of research and real-world applications</i>
+  
+  <br/><br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
 </div>
