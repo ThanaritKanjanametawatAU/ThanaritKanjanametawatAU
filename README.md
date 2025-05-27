@@ -100,10 +100,12 @@
 
 ### 🐍 Contribution Snake
 
-<!-- Snake animation will appear here after the GitHub Action runs -->
 <div align="center">
-  <i>The contribution snake will appear after the first workflow run. <br/>
-  To activate: Push this README to your repo and wait for the GitHub Action to generate the snake!</i>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThanaritKanjanametawatAU/ThanaritKanjanametawatAU/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThanaritKanjanametawatAU/ThanaritKanjanametawatAU/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThanaritKanjanametawatAU/ThanaritKanjanametawatAU/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
